@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-basics",
+      "title": "\"Building",
+      "description": "REST",
+      "path": "assignments/fastapi-basics",
+      "dueDate": "2026-05-31"
+    },
+    {
+      "id": "fastapi-basics",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn how to build high-performance web APIs with Python and FastAPI.",
+      "path": "assignments/fastapi-basics",
+      "dueDate": "2026-05-31"
     }
   ]
 }
