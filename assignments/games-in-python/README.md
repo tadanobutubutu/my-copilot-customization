@@ -3,7 +3,7 @@
 ## 🎯 Objective
 Learn how to create interactive terminal games using Python fundamentals like loops, conditionals, and input handling.
 
-## ⌨️ Tasks
+## 📝 Tasks
 
 ### Task 1: Guess the Number
 **Description:** Create a game where the computer selects a random number and the player has to guess it.
