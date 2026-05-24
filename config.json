@@ -72,6 +72,20 @@
       "description": "Learn how to build high-performance web APIs with Python and FastAPI.",
       "path": "assignments/fastapi-basics",
       "dueDate": "2026-05-31"
+    },
+    {
+      "id": "stats-python",
+      "title": "\"Statistics",
+      "description": "with",
+      "path": "assignments/stats-python",
+      "dueDate": "2026-05-31"
+    },
+    {
+      "id": "stats-python",
+      "title": "Statistics with Python",
+      "description": "Analyze data and perform statistical operations with Python.",
+      "path": "assignments/stats-python",
+      "dueDate": "2026-05-31"
     }
   ]
 }
